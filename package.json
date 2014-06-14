@@ -1,0 +1,18 @@
+{
+  "name": "lrc-mini-lyrics-to-srt",
+  "version": "0.0.1",
+  "author" : {
+    "name": "Marcos Rava",
+    "email" : "marcosrava@gmail.com"
+  }
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "subtitles-parser": "0.0.2"
+  }
+}
