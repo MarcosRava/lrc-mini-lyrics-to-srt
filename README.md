@@ -1,3 +1,3 @@
 #lrc-mini-lyrics-to-srt
 
-Convert file download by MiniLyrics plugin to srt subtitle
+Convert file downloaded by MiniLyrics plugin to srt subtitle
